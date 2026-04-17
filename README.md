@@ -12,19 +12,18 @@ While this project is currently under active development, feel free to give it a
 [![Count Lines of Code](https://github.com/500Foods/LuaReporter/actions/workflows/main.yml/badge.svg)](https://github.com/500Foods/Template/actions/workflows/main.yml)
 <!--CLOC-START -->
 ```cloc
-Last updated at 2026-04-17 00:33:05 UTC
+Last updated at 2026-04-17 00:33:53 UTC
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
 -------------------------------------------------------------------------------
+Markdown                         2              9              2             42
 YAML                             2              8             13             37
-Markdown                         1              5              2             25
 -------------------------------------------------------------------------------
-SUM:                             3             13             15             62
+SUM:                             4             17             15             79
 -------------------------------------------------------------------------------
-3 Files were skipped (duplicate, binary, or without source code):
+2 Files were skipped (duplicate, binary, or without source code):
   gitattributes: 1
   gitignore: 1
-  license: 1
 ```
 <!--CLOC-END-->
 
